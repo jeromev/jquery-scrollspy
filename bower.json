@@ -1,0 +1,23 @@
+{
+  "name": "jquery-scrollspy.js",
+  "version": "1.0.0",
+  "homepage": "https://github.com/sxalexander/jquery-scrollspy",
+  "main": [
+    "./jquery-scrollspy.js"
+  ],
+  "dependencies": {
+    "jquery": ">=1.8"
+  },
+  "authors": [
+    "Samuel Alexander <sxalexander@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "demo",
+    "test",
+    "tests"
+  ]
+}
